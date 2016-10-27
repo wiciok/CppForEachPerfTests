@@ -34,4 +34,6 @@
 
 *.db
 
+.idea/
 Debug/
+Release/
